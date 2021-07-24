@@ -1,7 +1,5 @@
  # Simple Machine Learning Model: Covid-19 Model
 
-
-
 * Team: int-ml-5
  
 * Team Members:
@@ -44,11 +42,11 @@
 
 * Authors:
 
- * Prasansha Satpathy (Video Creation)
+ * Prasansha Satpathy (Content,Video Screencast)
 
  * Aishwarya Pandey (Editing)
 
- * Vivek Gagiya (Content Creation)
+ * Vivek Gagiya (Content Creation, Notebook)
 
 
 ** Note: All the Images are original and not taken from any source. They are all uploaded by author in pinterest and taken from author's pinterest account.
