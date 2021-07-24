@@ -12,7 +12,7 @@
 
 
 * About the topic:
-    * This Topic consist of [Simple_ML_Model](http://github.com/Sara-cos/Intern-Work/edit/main/int-ml-5/Simple_ML_Model.md)
+    * This Topic consist of [Simple_ML_Model](http://github.com/Sara-cos/Intern-Work/edit/main/int-ml-5/Simple ML Model.md)
     
 ## **Contents:**
     
