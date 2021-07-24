@@ -35,7 +35,7 @@
  
  
  
- The notebook uses the ![COVID 19 Dataset of tested Individuals](https://github.com/Sara-cos/Intern-Work/blob/main/int-ml-5/Simple_ML_Model%20(Covid%2019%20model)/corona_tested_individuals_ver_006.english.csv) dataset for implementing all the algorithms mentioned above.
+ The notebook uses the [COVID 19 Dataset of tested Individuals](https://github.com/Sara-cos/Intern-Work/blob/main/int-ml-5/Simple_ML_Model%20(Covid%2019%20model)/corona_tested_individuals_ver_006.english.csv) dataset for implementing all the algorithms mentioned above.
  
  
 
