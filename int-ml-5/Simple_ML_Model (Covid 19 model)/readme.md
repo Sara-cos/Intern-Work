@@ -48,4 +48,4 @@
  * Vivek Gagiya (Content Creation, Notebook)
 
 
-** **Note**: All the Images are original and not taken from any source. They are all uploaded by author in pinterest and taken from author's pinterest account.
+** **Note**: All the Images are original and are present in the Images folder.
